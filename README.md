@@ -1,20 +1,15 @@
-### Lab Objectives
-- Basic Cisco Networking - Home Network
+### Labs
+I want to learn more about Network and the best way is to get my hands dirty. :)
 
-In this lab I created a simple network using Cisco Packet Tracer. 
-The equipment used are the following: 
-- End devices
-	- 4x PC-PT 
-- Switches
-	- 2x 2960-24TT
-- Routers
-	- 2x 2911
+##### Program used
+- Cisco Packet Tracer
 
-The purpose was to understand how to connect different devices together, to understand basic configurations and setting up DHCP. 
-<img width="1261" height="967" alt="image" src="https://github.com/user-attachments/assets/59d63ee7-c721-4e0f-8032-60cc4042769e" />
+##### Labs to be found:
+- Lab01 - Home Network
+- Lab02 - Small Organization Network
 
-#### Raw Configurations
-- Read /configs
-
-#### Documentation
-- Read /docs
+##### Lab folder contains: 
+- pkt (containing the actual network configuration in Cisco Packet Tracer)
+- objective (devices used, purpose of the lab)
+- config: contains raw configuration commands
+- docs: documentation while I work through the lab
